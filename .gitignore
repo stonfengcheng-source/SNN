@@ -6,7 +6,7 @@ __pycache__/
 
 # 数据与环境
 data/
-requirements.txt
+
 
 # 屏蔽权重文件与训练日志（重点！）
 *.pth
