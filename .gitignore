@@ -1,0 +1,14 @@
+# 基础忽略
+.venv1/
+.idea/
+__pycache__/
+*.pyc
+
+# 数据与环境
+data/
+requirements.txt
+
+# 屏蔽权重文件与训练日志（重点！）
+*.pth
+*.pth.tar
+output/
